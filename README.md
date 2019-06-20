@@ -1,2 +1,2 @@
 # PS-Set-DNS
-PowerShell: Set-DNS For MS Clients
+PowerShell: Set DNS Servers in Windows Clients 
